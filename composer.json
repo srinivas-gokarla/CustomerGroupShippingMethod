@@ -1,0 +1,19 @@
+{
+    "name": "srinivas/module-customergroupshippingmethod",
+    "description": "Grouped Customer Shipping Method",
+    "type": "magento2-module",
+    "version": "1.0.1",
+    "license": [
+        "GPL-2.0-or-later"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Srinivas\\CustomerGroupShippingMethod\\": ""
+        }
+    }
+}
+
+
